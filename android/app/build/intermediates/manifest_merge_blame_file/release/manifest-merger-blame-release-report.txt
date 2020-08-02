@@ -21,7 +21,7 @@
 15        android:allowBackup="false"
 15-->/home/sn/Códigos/go-barber-mobile/android/app/src/main/AndroidManifest.xml:11:7-34
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.0.1] /home/sn/.gradle/caches/transforms-2/files-2.1/1cd17b4a4c7e4b94a301254fec05bdc3/core-1.0.1/AndroidManifest.xml:22:18-86
+16-->[androidx.core:core:1.1.0] /home/sn/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
 17        android:icon="@mipmap/ic_launcher"
 17-->/home/sn/Códigos/go-barber-mobile/android/app/src/main/AndroidManifest.xml:9:7-41
 18        android:label="@string/app_name"

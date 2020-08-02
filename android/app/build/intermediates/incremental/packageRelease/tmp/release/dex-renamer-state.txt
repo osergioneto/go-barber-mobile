@@ -1,4 +1,4 @@
-#Fri Jul 31 21:37:21 BRT 2020
+#Sun Aug 02 18:47:07 BRT 2020
 base.0=/home/sn/Códigos/go-barber-mobile/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

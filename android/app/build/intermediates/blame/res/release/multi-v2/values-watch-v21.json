@@ -4,7 +4,7 @@
             "outputFile": "/home/sn/Códigos/go-barber-mobile/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/home/sn/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/home/sn/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
